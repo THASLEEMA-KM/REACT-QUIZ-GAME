@@ -20,7 +20,7 @@ function Rules() {
           <li> Only after selecting one option you can click next button.</li>
           <li> Each qustion carries 5 marks</li>
           <li> Your score will display at the end of the game.</li>
-          <li> There is a timer for each question, So answer before time.</li>
+          <li> You can't quite the game at the middle of the game.</li>
           <li> Click OK to start the Game, "Best of Luck!!!"</li>
         </ol>
       </p>
