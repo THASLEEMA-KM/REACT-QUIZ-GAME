@@ -10,7 +10,7 @@ function Rules() {
   return (
     <>
 
-      <div style={{width:'550px'}} className='container align-itms-center rulesdiv d-flex flex-column mt-5 border rounded shadow animate__animated animate__bounceIn '>
+      <div style={{width:'500px'}} className='container align-itms-center rulesdiv d-flex flex-column mt-5 border rounded shadow animate__animated animate__bounceIn '>
       <h1 className='text-center fw-bold pt-3'>Rules</h1>
       <hr />
       <h2 className='text-center'>A very simple Quiz game Related to React </h2>
