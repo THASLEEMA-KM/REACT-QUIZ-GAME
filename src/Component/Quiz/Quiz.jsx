@@ -118,7 +118,7 @@ function Quiz() {
     }
   return (
     <>
-        <div  style={{width:'550px'}} className='container   d-flex flex-column mt-5 border rounded shadow quizdiv animate__animated animate__backInDown' >
+        <div  style={{width:'500px'}} className='container   d-flex flex-column mt-5 border rounded shadow quizdiv animate__animated animate__backInDown' >
             
                         <h1 className='text-center fw-bold pt-3'>Quiz App</h1>
                         <hr />
